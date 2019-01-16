@@ -15,8 +15,8 @@
  *  ====================================================================
  */
  
-#ifndef control_h
-#define control_h
+#ifndef PID_control_h
+#define PID_control_h
 #define LIBRARY_VERSION  1.2.1
 
 class PID
